@@ -1,0 +1,26 @@
+{
+  "name": "liri-command-line-music-finder",
+  "version": "1.0.0",
+  "description": "Find music using the command line",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KAronoff/LIRI-command-line-music-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KAronoff/LIRI-command-line-music-finder/issues"
+  },
+  "homepage": "https://github.com/KAronoff/LIRI-command-line-music-finder#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^7.0.0",
+    "inquirer": "^6.3.1",
+    "moment": "^2.24.0",
+    "node-spotify-api": "^1.1.1"
+  }
+}
